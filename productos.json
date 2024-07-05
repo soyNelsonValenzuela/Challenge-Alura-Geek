@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "LEGO-DOBBY EL ELFO DOMÉSTICO",
+      "precio": "$54.990",
+      "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/6/7/673419381178.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "MODEL KIT DIGIMON - WARGREYMON ",
+      "precio": "$64.990",
+      "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/4/5/45731025781502.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "DRAGON BALL GOKU SUPER SAIYAN GOD ",
+      "precio": "$24.990",
+      "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/0/4/0455572334020.jpeg"
+    },
+    {
+      "id": "1fc2",
+      "nombre": "AUDIFONO BLACKSHARK V2 X GREEN",
+      "precio": "$49.990",
+      "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/8/8/8886419379539-1.jpg"
+    },
+    {
+      "id": "b77e",
+      "nombre": "SUPER MARIO BROS.U DELUXE SWITCH",
+      "precio": "$44.990",
+      "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/p/r/producto19103_1.jpg"
+    },
+    {
+      "id": "3a64",
+      "nombre": "JUEGO DE MESA THROWTHROW BURRITO",
+      "precio": "$29.990",
+      "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/8/1/810083041520-01.jpg"
+    },
+    {
+      "id": "98c9",
+      "nombre": "POLERA HARRY POTTER HUFFLEPUF",
+      "precio": "$10.990",
+      "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/1/9/1903712356410.jpeg"
+    },
+    {
+      "id": "fd6e",
+      "nombre": "SILLA GAMER PRIMUS THRONOS 100T BLU",
+      "precio": "$164.990",
+      "imagen": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/7/9/798302224872.jpg"
+    },
+    {
+      "id": "25ef",
+      "nombre": "MULTICONSOLA RETRO PORTABLE R36S",
+      "precio": "$79.990",
+      "imagen": "https://neeks.cl/wp-content/uploads/2024/05/r36s.jpeg"
+    }
+  ]
+}

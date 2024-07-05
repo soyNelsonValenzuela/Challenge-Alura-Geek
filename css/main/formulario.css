@@ -1,0 +1,79 @@
+/*Formulario*/
+
+.contenedor-formulario {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    text-align: center;
+    padding: 40px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.input {
+    border-style: solid;
+    border-color: #03318C;
+    border-radius: 30px;
+    padding: 10px;
+    border-width: 2px;
+    font-weight: 600;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    }
+
+input[type=number] { 
+    -moz-appearance:textfield; 
+}
+
+/* Desde la linea 26 a la 34 es codigo para borrar los decoradores de un input type number */
+
+
+.contenedor-botones-formulario {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.boton-formulario {
+    border-style: solid;
+    border-color: #03318C;
+    border-radius: 10px;
+    padding: 10px;
+    border-width: 2px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+#botonEnviar {
+    background-color: #03318C;
+    color: #FFFFFF;
+}
+
+@media (min-width: 556px){
+
+    .contenedor-formulario{
+        margin: 0 10%;
+    }
+}
+
+@media (min-width: 1100px) {
+    /* Agregar productos*/
+
+    .contenedor-formulario {
+        width: 50%;
+        padding: 0%;
+    }
+
+    .contenedor-formulario{
+        margin: 0;
+    }
+}
